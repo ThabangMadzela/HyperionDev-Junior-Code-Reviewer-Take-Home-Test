@@ -16,12 +16,13 @@ The workspace contains two folders by default, where:
 > * VS Code(latest Vresion)
 
 #### Extension to have in VS Code
+> * Debugger For Java
 > * Extension Pack for Java
 > * Test Runner for Java
 
-#### Now download this project ON this repo
+#### Now download this repo 
 > * open VS Code 
-> * in VS Code go to `File>Open Folder` then open this project folder
+> * in VS Code go to `Open Folder` navihage to the downloaded repo > SECTION_C then open this `isbnProject` folder
 > * once openned in src click `ISBN.java` and `ISBNTest.java`
 > * to run either , click on run icon on top left corner of the open file in the VS Code window
 
